@@ -13,7 +13,7 @@ Here’s a quick rundown of what it can do:
 
 # Warnings and Considerations
 
--Key Management:
+- Key Management:
 Always store your encryption keys securely - Losing the key means you won’t be able to decrypt your files.
 Avoid sharing your key over insecure channels.
 
